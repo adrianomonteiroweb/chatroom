@@ -1,0 +1,13 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:adrianomonteiroweb/chatroom.git",
+  "author": "Adriano Monteiro <47261292+adrianomonteiroweb@users.noreply.github.com>",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
